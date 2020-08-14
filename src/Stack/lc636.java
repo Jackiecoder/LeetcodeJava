@@ -1,3 +1,5 @@
+package Stack;
+
 public class lc636 {
     public int[] exclusiveTime(int n, List<String> logs) {
         Stack<Integer> stack =
